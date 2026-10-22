@@ -1,5 +1,6 @@
 # Archesky – Business Agency Landing Page
 
+![Archesky Business Agency Landing Page](127.0.0.1_5500_index.html%20%281%29.png)
 A front-end development project created as part of my Full Stack Development training.
 
 The objective of this project was to recreate a business agency landing page based on a design provided in Figma, translating the visual layout into HTML and CSS.
